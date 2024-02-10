@@ -12,7 +12,7 @@ This is a React application that allows users to perform CRUD (Create, Read, Upd
 ## Installation
 1. Clone this repository to your local machine using:
     ```
-    git clone <repository-url>
+    git clone https://github.com/Mtharun/React-Axios/tree/main
     ```
 2. Navigate to the project directory:
     ```
